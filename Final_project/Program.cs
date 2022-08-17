@@ -205,9 +205,6 @@ namespace Connect_Four
              int posicion_x;
              int posicion_y;
 
-            int variable_x;
-            int variable_y;
-
             Console.WriteLine("-----------BIENVENIDO AL JUEGO CONECTA 4-------------");
             Console.WriteLine(" ");
 
@@ -249,30 +246,21 @@ namespace Connect_Four
                         Console.WriteLine("Entre la posicion en y ");
                         posicion_y = int.Parse(Console.ReadLine());
 
-
-                        if (contador_jugadas == 0)
-                        {
-                            variable_x = posicion_x;
-                            variable_y = posicion_y;
-                        }
-
+                        //Modulo que juega, pone el simbolo dentro de las posicion que entro el jugador
                         player1.Jugar(posicion_x, posicion_y, Matriz_Main);
 
-
+                        //Contador que cuenta las 4 jugadas, para ver si gano.
                         contador_jugadas++;
 
                         if (contador_jugadas == 4)
                         {
-
                             //Trata de buscar 4 lugares con el mismo simbolo, ganaste.
                             player1.Buscar_matriz_derecha(Matriz_Main);
                             player1.Buscar_matriz_izquierda(Matriz_Main);
-
-
-                            //  Console.WriteLine("El jugador: " + player1.Name + " ,Ha ganado! ");
+                            player1.Buscar_matriz_Arriba(Matriz_Main);
+                            player1.Buscar_matriz_Abajo(Matriz_Main);
                         }
                     
-
 
                     //Imprimir matriz sin que se repita
                     player1.Imprime_Matriz(Matriz_Main);
