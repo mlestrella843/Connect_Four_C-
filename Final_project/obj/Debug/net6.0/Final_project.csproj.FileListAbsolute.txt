@@ -1,0 +1,15 @@
+/Users/albertopereyra/Projects/Final_project/Final_project/bin/Debug/net6.0/Final_project
+/Users/albertopereyra/Projects/Final_project/Final_project/bin/Debug/net6.0/Final_project.deps.json
+/Users/albertopereyra/Projects/Final_project/Final_project/bin/Debug/net6.0/Final_project.runtimeconfig.json
+/Users/albertopereyra/Projects/Final_project/Final_project/bin/Debug/net6.0/Final_project.dll
+/Users/albertopereyra/Projects/Final_project/Final_project/bin/Debug/net6.0/Final_project.pdb
+/Users/albertopereyra/Projects/Final_project/Final_project/obj/Debug/net6.0/Final_project.csproj.AssemblyReference.cache
+/Users/albertopereyra/Projects/Final_project/Final_project/obj/Debug/net6.0/Final_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertopereyra/Projects/Final_project/Final_project/obj/Debug/net6.0/Final_project.AssemblyInfoInputs.cache
+/Users/albertopereyra/Projects/Final_project/Final_project/obj/Debug/net6.0/Final_project.AssemblyInfo.cs
+/Users/albertopereyra/Projects/Final_project/Final_project/obj/Debug/net6.0/Final_project.csproj.CoreCompileInputs.cache
+/Users/albertopereyra/Projects/Final_project/Final_project/obj/Debug/net6.0/Final_project.dll
+/Users/albertopereyra/Projects/Final_project/Final_project/obj/Debug/net6.0/refint/Final_project.dll
+/Users/albertopereyra/Projects/Final_project/Final_project/obj/Debug/net6.0/Final_project.pdb
+/Users/albertopereyra/Projects/Final_project/Final_project/obj/Debug/net6.0/Final_project.genruntimeconfig.cache
+/Users/albertopereyra/Projects/Final_project/Final_project/obj/Debug/net6.0/ref/Final_project.dll
